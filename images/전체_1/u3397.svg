@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="22px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <radialGradient cx="315.208955223881" cy="170.552736318408" r="18.8059701492537" gradientTransform="matrix(0 0.916666666666669 -1 0 485.761691542288 -118.38880597015 )" gradientUnits="userSpaceOnUse" id="RadialGradient14">
-      <stop id="Stop15" stop-color="#000000" offset="0" />
-      <stop id="Stop16" stop-color="#ffffff" offset="1" />
+    <radialGradient cx="315.208955223881" cy="170.552736318408" r="18.8059701492537" gradientTransform="matrix(0 0.916666666666669 -1 0 485.761691542288 -118.38880597015 )" gradientUnits="userSpaceOnUse" id="RadialGradient2084">
+      <stop id="Stop2085" stop-color="#000000" offset="0" />
+      <stop id="Stop2086" stop-color="#ffffff" offset="1" />
     </radialGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -303 -159 )">
-    <path d="M 303 166  A 7 7 0 0 1 310 159 L 320 159  A 7 7 0 0 1 327 166 L 327 174  A 7 7 0 0 1 320 181 L 310 181  A 7 7 0 0 1 303 174 L 303 166  Z " fill-rule="nonzero" fill="url(#RadialGradient14)" stroke="none" />
+    <path d="M 303 166  A 7 7 0 0 1 310 159 L 320 159  A 7 7 0 0 1 327 166 L 327 174  A 7 7 0 0 1 320 181 L 310 181  A 7 7 0 0 1 303 174 L 303 166  Z " fill-rule="nonzero" fill="url(#RadialGradient2084)" stroke="none" />
   </g>
 </svg>
