@@ -156,6 +156,14 @@
 }
 ._menu_bg {
 }
+.paragraph2 {
+  font-family:'Helvetica Neue ', 'Helvetica Neue', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#000000;
+  text-align:left;
+}
 .image2 {
   font-family:'Helvetica Neue ', 'Helvetica Neue', sans-serif;
   font-weight:400;
@@ -164,6 +172,13 @@
   color:#000000;
 }
 .shape5 {
+  font-family:'Helvetica Neue ', 'Helvetica Neue', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#000000;
+}
+.shape6 {
   font-family:'Roboto', sans-serif;
   font-weight:400;
   font-style:normal;
