@@ -23436,31 +23436,13 @@
   width:1px;
   height:1px;
 }
-#u423_div {
+#u423_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:200px;
   height:605px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(127, 127, 127, 1);
-  border-top:0px;
-  border-right:0px;
-  border-radius:0px;
-  border-top-left-radius:0px;
-  border-bottom-right-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Noto Sans KR', sans-serif;
-  font-weight:400;
-  font-style:normal;
-  color:rgba(0, 0, 0, 0.866666666666667);
 }
 #u423 {
   border-width:0px;
